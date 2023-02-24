@@ -1,0 +1,9 @@
+body{
+   
+  background:  url("https://www.archives.gov/files/research/african-americans/individuals/hueynewton-loc.jpg") no-repeat fixed center; 
+  background-size: cover;
+   background-color: rgba(255, 255, 255, 0.7);
+ background-blend-mode: lighten;
+  position: center;
+
+}
